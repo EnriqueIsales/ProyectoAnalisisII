@@ -235,5 +235,17 @@ Link de Calendario de Github: https://github.com/EnriqueIsales/ProyectoAnalisisI
 
 Link de repositorios en Github: https://github.com/EnriqueIsales/ProyectoAnalisisII
  
+CONCLUSIÓN:
+
+Con el software ya implementado en diferentes clínicas, pudimos ver mejoría en tantos pacientes, ya que saben el control que se lleva, y la preocupación ha decrecido exponencialmente ya que saben el historial de salud exactamente cuando quieran, agendan citas cuando sea necesario ya que con la plataforma pueden consultar rápidamente al doctor sabiendo asi cual es la próxima necesidad y así mismo el resultado fácil y seguro de lo que necesitan para poder aumentar la credibilidad del doctor. 
+
+
+anexos 
+
+
+
+
+
+
 
 
