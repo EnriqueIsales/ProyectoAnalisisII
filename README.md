@@ -242,10 +242,32 @@ Con el software ya implementado en diferentes clínicas, pudimos ver mejoría en
 
 anexos 
 
+Login del Sistema
+![image](https://user-images.githubusercontent.com/84251533/139541871-9b5a1b19-39b6-4ff8-a027-37d86dcac229.png)
+
+Menú de inicio 
+![image](https://user-images.githubusercontent.com/84251533/139541888-a0acd2b9-6bcb-405a-b41b-b14ddf5e0ce6.png)
 
 
+Modulo de Pacientes
 
+![image](https://user-images.githubusercontent.com/84251533/139541894-5903a105-133a-42b0-af43-a390779e236f.png)
 
+![image](https://user-images.githubusercontent.com/84251533/139541897-5de571a9-f7d4-4374-8630-bd02f9baf72c.png)
+
+Registro de citas
+
+![image](https://user-images.githubusercontent.com/84251533/139541900-57ca9c87-a8bc-4bdb-bd68-8f7a508b2e13.png)
+
+Historial de Citas
+![image](https://user-images.githubusercontent.com/84251533/139541907-a93f62aa-ccc0-4702-9f5a-c8761975c80e.png)
+
+Registro de pacientes 
+
+![image](https://user-images.githubusercontent.com/84251533/139541913-b492c0e3-8314-4da3-b779-ccf708ba977a.png)
+
+Validaciones
+![image](https://user-images.githubusercontent.com/84251533/139541918-2008459f-92c6-4d26-a37c-acbd63672f13.png)
 
 
 
