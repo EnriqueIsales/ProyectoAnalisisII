@@ -25,24 +25,41 @@ Planteamiento del proyecto: Se solicita la creación de microservicios para un c
 
 Requerimientos: 
 	Panel de control 
+
 	Gestión de citas
+
 	Administración de médicos
+
 	Administración de pacientes
+
 	Administración consultas
+
 	Reportes 
+
 	Administración de usuarios
+
 	Permisos y roles
+
+
 
  
 Tecnologías a utilizar:
 	Php
+
 	Html5
+
 	css
+
 	JavaScript
+
 	Ajax
+
 	Base de datos: MySQL Mariadb
+
 	Visual Studio Code
+
 	Arquitectura en capas
+
 
  
 INTRODUCCIÓN:
