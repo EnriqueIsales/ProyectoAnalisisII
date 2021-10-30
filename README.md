@@ -128,59 +128,107 @@ Cuando a este nos referimos, sabemos que se trata de una caja de tiempo de Scrum
 
 No. De Spring	Actividad	Personas responsables
 1	MANTENIMIENTO DE PACIENTES	Enrique Isales
+
 2	MANTENIMIENTOS DE CITAS	Enrique Isales
+
 3	CRUD USUARIOS	Brayan Hernández, Brayan Hernández
+
 4	CONEXION A LA BASE DE DATOS	Enrique Isales, Brayan Hernández
+
 5	CRUD INSUMOS 	Enrique Isales, Michael Alan Cruz Rosa
+
 6	CRUD CLIENTES	Enrique Isales, Michael Alan Cruz Rosa
+
 7	CRUD ESPECIALIDADES	Enrique Isales Brayan Hernández
+
 8	CRUD MEDICAMENTOS 	Enrique Isales, Michael Alan Cruz Rosa
+
 9	CRUD PROCEDIMIENTOS	Enrique Isales, Michael Alan Cruz Rosa
-10	MANTENIMIENTOS DE PACIENTES	Enrique Isales, Brayan Hernández,
+
+10	MANTENIMIENTOS DE PACIENTES	Enrique Isales, Brayan Hernández
+
 11	CRUD DE MEDICOS	Enrique Isales, Brayan Hernández
+
 12	CONFIGURACION DEL SISTEMA	Michael Alan Cruz Rosa, Brayan Hernández
+
 13	REGISTRO DE DETALLE DE MEDICAMENTO E INSUMO	Michael Alan Cruz Rosa, Brayan Hernández
+
 14	GENERAR REPORTES	Michael Alan Cruz Rosa, Brayan Hernández
+
 15	DISEÑO DE TICKET DE LA CITA	Michael Alan Cruz Rosa, Brayan Hernández
+
 16	HISTORIAL CLINICO	Enrique Isales
+
 17	REGISTRO DE CONSULTAS	Enrique Isales, Brayan Hernández
+
 18	LISTA DE CONSULTAS CON PARAMETROS	Enrique Isales
+
 19	PERMISOS DE USUARIOS 	Enrique Isales
+
 20	DISEÑO DE TICKET DE LA CITA	Enrique Isales
+
 
 Estimaciones de horas de los Sprint 
 No. De Spring	Actividad	Tiempo en horas
 1	CONEXION A LA BASE DE DATOS	6
+
 2	MANTENIMIENTOS DE CITAS	6
+
 3	CRUD USUARIOS	5
+
 4	MANTENIMIENTO DE PACIENTES	3
+
 5	CRUD INSUMOS 	5
+
 6	CRUD CLIENTES	5
+
 7	CRUD ESPECIALIDADES	6
+
 8	CRUD MEDICAMENTOS 	5
+
 9	CRUD PROCEDIMIENTOS	4
+
 10	MANTENIMIENTOS DE PACIENTES	6
+
 11	CRUD DE MEDICOS	5
+
 12	CONFIGURACION DEL SISTEMA	8
+
 13	REGISTRO DE DETALLE DE MEDICAMENTO E INSUMO	3
+
 14	GENERAR REPORTES	3
+
 15	DISEÑO DE TICKET DE LA CITA	4
+
 16	HISTORIAL CLINICO	4
+
 17	REGISTRO DE CONSULTAS	4
+
 18	LISTA DE CONSULTAS CON PARAMETROS	5
+
 19	PERMISOS DE USUARIOS 	4
+
 20	DISEÑO DE TICKET DE LA CITA	4
+
 Horas totales	95
 
 
+
 Calendario de reuniones 
+
 Fecha	Actividad	Tiempo en horas
+
 11/10/2021	Propuesta de proyecto	1
+
  14/10/2021	Asignación de tareas 	1
+ 
 
 21/102021	Revisión y solución de problemas	1
+
 18/10/2021	Revisión y solución de problemas	1
+
 29/10/2021	Revisión 	1
+
  
 Link de Calendario de Github: https://github.com/EnriqueIsales/ProyectoAnalisisII/projects/1 
  
