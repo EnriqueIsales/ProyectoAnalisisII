@@ -8,7 +8,6 @@ Curso: Análisis de Sistemas I
 Estudiantes: 							carnet:
 José Enrique Isales Quintanilla				1190-17-6929
 Bryan David Hernández Solís				1190-16-4652
-José Francisco Jordan Vargas				1190-17-20132
 Michael Alan Cruz Rosa					1190-14-15112
 
 PROYECTO 
