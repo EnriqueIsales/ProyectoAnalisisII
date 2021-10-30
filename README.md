@@ -161,6 +161,24 @@ Cuando a este nos referimos, sabemos que se trata de una caja de tiempo de Scrum
 
 
 
+
+UI UX
+![image](https://user-images.githubusercontent.com/84251533/139542142-f2c2a623-44dd-450d-9916-d1a46e054d6e.png)
+
+diseño terminado 
+![image](https://user-images.githubusercontent.com/84251533/139542151-a5c6e748-6184-4fd6-a7e7-91be6b337d4a.png)
+
+
+
+Modelo ER
+
+
+![image](https://user-images.githubusercontent.com/84251533/139542175-a6f0301f-877d-44e8-90f1-5f521c945430.png)
+
+
+
+
+
  
 Link de Calendario de Github: https://github.com/EnriqueIsales/ProyectoAnalisisII/projects/1 
  
